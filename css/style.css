@@ -17,7 +17,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('S:\\vscode_workspace\\python_workplace\\8_3.py\\images\\potato.jpg'); /* Image of potato */
+    background-image: url('images\potato.jpg'); /* Image of potato */
     background-repeat: no-repeat;
     background-size: contain;
     animation: float 10s infinite linear; /* Potato floating animation */
